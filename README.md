@@ -20,3 +20,8 @@ par
 ```
 <?= $color ?>
 ```
+
+exemple 
+```
+chatbox_code/import_exemple/
+```
