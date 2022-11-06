@@ -8,4 +8,15 @@ Template de création de Theme de ChatBox Streamlabs
 ```
 chatbox_code/
 ```
-
+ 
+ 
+ ## fonctionnement
+ 
+ replace
+ ```
+ {color}
+ ```
+par
+```
+<?= $color ?>
+```
